@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ash-singh?tab=repositories](https://github.com/ash-singh?tab=repositories)
 
-- 💬 Ask me about **backend**
+- 💬 Ask me about **Fullstack**, **Engineering Leadership** and **E-commerce**
 
 - ⚡ Fun fact **I know Krav Maga**
 
