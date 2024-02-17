@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently workings as a **Tech Lead with Westwing, Munich**
 
-- 🌱 I’m currently learning **Deutsch**
+- 🌱 I’m currently learning **Web3 - ICP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ash-singh?tab=repositories](https://github.com/ash-singh?tab=repositories)
 
