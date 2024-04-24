@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ash-singh" alt="ash-singh" /></a> </p>
 
-- 🔭 I’m currently workings as a **Tech Lead with Westwing, Munich**
+- 🔭 I’m currently workings as a **Tech Lead, Payments with German e-commerce, Munich**
 
 - 🌱 I’m currently learning **Web3 - ICP**
 
