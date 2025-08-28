@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ash-singh" alt="ash-singh" /></a> </p>
 
-- 🔭 I’m currently working as a Tech Lead for Payments and Post-Order Processing at a German Home & Living e-commerce, Munich
+- 🔭 I’m currently working as a Tech Lead at a German Home & Living e-commerce, Munich
 
 - 👨‍💻 All of my projects are available at [https://github.com/ash-singh?tab=repositories](https://github.com/ash-singh?tab=repositories)
 
-- 💬 Ask me about **Fullstack**, **Engineering Leadership** and **E-commerce**
+- 💬 Ask me about **AI**, **Engineering Leadership** and **E-commerce**
 
 - ⚡ Fun fact **I know Krav Maga**
 
