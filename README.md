@@ -11,7 +11,7 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
-**tech lead · ai/ml systems · e-commerce infrastructure**
+**Engineering Leader · AI systems · E-Commerce · SaaS**
 
 `Munich, DE` `UTC+2`
 
@@ -34,48 +34,7 @@
 
 ### `$ whoami`
 
-Tech Lead building platform infrastructure for Germany's largest reusable packaging ecosystem. I operate at the intersection of distributed systems, AI tooling, and e-commerce — from Go microservices on K8s to developer productivity metrics to Azure AI integrations. Also: Krav Maga.
-
----
-
-### `$ ls ./projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[dpe-insights](https://github.com/ash-singh/dpe-insights)**
-Developer Productivity Engineering — metrics dashboards surfacing eng health signals across teams.
-`Go` `Dashboards` `DPE`
-⭐ 2 · 🍴 1
-
-</td>
-<td width="50%" valign="top">
-
-**[azure-ai-apps](https://github.com/ash-singh/azure-ai-apps)**
-Sample applications built on top of Microsoft Azure AI services.
-`Python` `Azure AI` `LLMs`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[go-app-k8s](https://github.com/ash-singh/go-app-k8s)**
-Go service with full minikube + Kubernetes local dev environment.
-`Go` `Kubernetes` `DevOps`
-
-</td>
-<td width="50%" valign="top">
-
-**[IDeCom](https://github.com/ash-singh/IDeCom)**
-Decentralised commerce protocol on Internet Computer (ICP/Web3). WIP.
-`JavaScript` `ICP` `Web3`
-⭐ 2
-
-</td>
-</tr>
-</table>
+Engineering Leader building platform for Germany's largest reusable packaging ecosystem. I operate at the intersection of distributed systems, AI tooling, and e-commerce — from microservices to AI integrations. Also: Krav Maga.
 
 ---
 
@@ -89,7 +48,7 @@ Decentralised commerce protocol on Internet Computer (ICP/Web3). WIP.
 | **data** | PostgreSQL · MySQL · MariaDB · MongoDB |
 | **infra** | Kubernetes · Docker · AWS · GCP · Firebase |
 | **observability** | Grafana · Kibana · Prometheus |
-| **ai / ml** | Azure AI Services · LLM tooling |
+| **ai / ml** | GoogleGenAI · OpenAI · Anthropic |
 
 ---
 
