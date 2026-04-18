@@ -1,23 +1,120 @@
-<h1 align="center">Hi 👋, I'm Ashwani Singh</h1>
-<h3 align="center">A coffee fuelled software engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ash-singh&label=Profile%20views&color=0e75b6&style=flat" alt="ash-singh" /> </p>
+<br/>
 
-- 🔭 I’m currently working as a Tech Lead at Germany's largest reusable packaging ecosystem. , Munich
+```
+ █████╗ ███████╗██╗  ██╗
+██╔══██╗██╔════╝██║  ██║
+███████║███████╗███████║
+██╔══██║╚════██║██╔══██║
+██║  ██║███████║██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-- 👨‍💻 All of my projects are available at [https://github.com/ash-singh?tab=repositories](https://github.com/ash-singh?tab=repositories)
+**tech lead · ai/ml systems · e-commerce infrastructure**
 
-- 💬 Ask me about **AI**, **Engineering Leadership** and **E-commerce**
+`Munich, DE` `UTC+2`
 
-- ⚡ Fun fact **I know Krav Maga**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/imashwanisingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imashwanisingh" height="30" width="40" /></a>
-</p>
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://python.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
+[![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![Kubernetes](https://img.shields.io/badge/K8s-326ce5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-imashwanisingh-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/imashwanisingh)
 
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ash-singh&" alt="ash-singh" /></p>
+<br/>
+
+---
+
+### `$ whoami`
+
+Tech Lead building platform infrastructure for Germany's largest reusable packaging ecosystem. I operate at the intersection of distributed systems, AI tooling, and e-commerce — from Go microservices on K8s to developer productivity metrics to Azure AI integrations. Also: Krav Maga.
+
+---
+
+### `$ ls ./projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[dpe-insights](https://github.com/ash-singh/dpe-insights)**
+Developer Productivity Engineering — metrics dashboards surfacing eng health signals across teams.
+`Go` `Dashboards` `DPE`
+⭐ 2 · 🍴 1
+
+</td>
+<td width="50%" valign="top">
+
+**[azure-ai-apps](https://github.com/ash-singh/azure-ai-apps)**
+Sample applications built on top of Microsoft Azure AI services.
+`Python` `Azure AI` `LLMs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[go-app-k8s](https://github.com/ash-singh/go-app-k8s)**
+Go service with full minikube + Kubernetes local dev environment.
+`Go` `Kubernetes` `DevOps`
+
+</td>
+<td width="50%" valign="top">
+
+**[IDeCom](https://github.com/ash-singh/IDeCom)**
+Decentralised commerce protocol on Internet Computer (ICP/Web3). WIP.
+`JavaScript` `ICP` `Web3`
+⭐ 2
+
+</td>
+</tr>
+</table>
+
+---
+
+### `$ cat ./stack`
+
+| layer | tools |
+|---|---|
+| **languages** | Go · Python · TypeScript · PHP · Motoko |
+| **frontend** | React · Tailwind · GraphQL |
+| **backend** | Nginx · RabbitMQ · Redis · Elasticsearch |
+| **data** | PostgreSQL · MySQL · MariaDB · MongoDB |
+| **infra** | Kubernetes · Docker · AWS · GCP · Firebase |
+| **observability** | Grafana · Kibana · Prometheus |
+| **ai / ml** | Azure AI Services · LLM tooling |
+
+---
+
+### `$ git log --oneline`
+
+<div align="center">
+
+<br/>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ash-singh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=00ADD8&text_color=8b949e)](https://github.com/ash-singh)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-singh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=6)](https://github.com/ash-singh)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ash-singh&theme=dark&hide_border=true&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e)](https://github.com/ash-singh)
+
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
+`engineering systems that scale · from atoms to abstractions`
+
+</div>
